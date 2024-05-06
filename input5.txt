@@ -1,0 +1,5 @@
+PALATE
+PALETTE
+1
+-1
+1

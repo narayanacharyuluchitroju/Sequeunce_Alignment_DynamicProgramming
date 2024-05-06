@@ -1,0 +1,5 @@
+AAABAAA
+BBBABBB
+1
+-3
+4
